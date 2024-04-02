@@ -18,6 +18,7 @@ Olá! Meu nome é Luan, tenho 25 anos e estou prestes a me formar em Data Scienc
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/luan-lopes-beltrani-de-souza-2a95b1191/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white/)](https://www.kaggle.com/luansouzallo/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](https://medium.com/@liansouzallo/)
 
 <!--
 **Luansouzallo/Luansouzallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
