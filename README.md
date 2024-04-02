@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi, there! My name is Luan and this is my Data Science / Machine Learning repository! 👋
+## Sobre Mim
+
+Olá! Meu nome é Luan, tenho 25 anos e estou prestes a me formar em Data Science. Sou apaixonado por trabalhar com dados e resolver problemas.
+
+- 🎓 Graduando em Data Science
+- 👨‍👩‍👦 Casado
+- 💼 Experiência em limpeza e exploração de dados utilizando Python
+- 💻 Familiaridade com Excel e SQL
+
+### Habilidades
+
+- Python
+- Excel
+- SQL
+
+### Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/luan-lopes-beltrani-de-souza-2a95b1191/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white/)](https://www.kaggle.com/luansouzallo/)
 
 <!--
 **Luansouzallo/Luansouzallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
