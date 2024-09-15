@@ -13,6 +13,8 @@ Olá! Meu nome é Luan, tenho 25 anos e estou prestes a me formar em Data Scienc
 - Python
 - Excel
 - SQL
+- Power BI
+
 
 ### Contato
 
