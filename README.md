@@ -1,4 +1,4 @@
-### Hi, there! My name is Luan and this is my Data Science / Machine Learning repository! 👋
+### Hi, there! My name is Luan! 👋
 ## Sobre Mim
 
 Olá! Meu nome é Luan, tenho 25 anos e estou prestes a me formar em Data Science. Sou apaixonado por trabalhar com dados e resolver problemas.
