@@ -6,13 +6,10 @@ Olá! Meu nome é Luan Lopes Beltrani de Souza, tenho 27 anos e sou estudante de
 
 Sou apaixonado por transformar dados brutos em inteligência acionável, combinando Engenharia de Dados, Modelagem Preditiva/Estatística, MLOps e Governança de IA & Gestão de Risco de Modelos (MRM - Model Risk Management).
 
-🎓 Formação: Graduando em Data Science
+🎓 Formação: Graduado em Data Science
 
 🎯 Foco de Atuação: Data Science, Governança de Modelos (MRM), MLOps e SQL Analytics
 
-👨‍👩‍👦 Casado e focado no desenvolvimento profissional contínuo
-
-💡 Diferenciais: Foco em ciclo de vida completo de modelos, explicabilidade (XAI), rastreabilidade, prevenção de data drift e boas práticas de engenharia relacional.
 
 🚀 Projetos em Destaque
 
