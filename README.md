@@ -17,6 +17,8 @@ MLOps & Quality Assurance: Testes estatísticos de drift (KS-Test, T-Test), trac
 
 SQL: Consultas de dados, manipulação (DML), criação de tabelas (DDL) e relacionamentos (JOINs).
 
+Engenharia de dados: Snowflake, VS Code, GIthub
+
 Visualização de Dados: Power BI.
 
 
